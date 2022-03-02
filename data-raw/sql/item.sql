@@ -1,9 +1,19 @@
 -- !preview conn=DBI::dbConnect(RSQLite::SQLite())
 
-create table rds_t_material_input (FUseOrgName varchar(200),FNumber varchar(200),F_SZSP_MNGRCOST float)
+create table rds_t_material_input (
+	[FUseOrgName] [varchar](200) NULL,
+	[FNumber] [varchar](200) NULL,
+	[F_SZSP_MNGRCOST] [float] NULL,
+	[FUploadDate] [date] NULL
+)
 
 
-create table rds_t_material_del (FUseOrgName varchar(200),FNumber varchar(200),F_SZSP_MNGRCOST float)
+create table rds_t_material_del (
+	[FUseOrgName] [varchar](200) NULL,
+	[FNumber] [varchar](200) NULL,
+	[F_SZSP_MNGRCOST] [float] NULL,
+	[FUploadDate] [date] NULL
+)
 
 create table rds_t_orgnization(FOrgId int,FOrgName varchar(200))
 

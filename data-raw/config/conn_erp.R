@@ -1,5 +1,5 @@
-ip = '115.159.201.178'
+ip = '192.168.1.12'
 port =1433
 user_name ='sa'
-password ='Hoolilay889@'
-db_name = 'SZSP'
+password ='Itc@2021'
+db_name = 'SZSP
