@@ -2,3 +2,8 @@
 
 export(item_mngrCost_read)
 export(item_mngrCost_update)
+export(outstock_performance_calc)
+export(outstock_performance_query)
+export(outstock_performance_rule_names)
+export(outstock_performance_rule_new)
+export(outstock_performance_rule_query)
