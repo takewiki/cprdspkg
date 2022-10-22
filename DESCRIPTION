@@ -1,7 +1,7 @@
 Package: cprdspkg
 Type: Package
 Title: package for cprds
-Version: 2.1.0
+Version: 2.2.0
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: More about what it does (maybe more than one line)

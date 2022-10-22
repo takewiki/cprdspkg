@@ -2,7 +2,9 @@
 
 export(dzd_initData_read)
 export(dzd_initData_updateAll)
+export(dzd_initData_updateAll2)
 export(dzd_initData_updateOne)
+export(dzd_initData_updateOne2)
 export(item_mngrCost_read)
 export(item_mngrCost_update)
 export(outstock_performance_calc)
